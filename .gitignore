@@ -218,10 +218,8 @@ __marimo__/
 .streamlit/secrets.toml
 
 .streamlit/
-search_assets.pkl
 .env
 venv/
 __pycache__/
-search_assets.pkl
 .streamlit/
 .env
